@@ -1,0 +1,182 @@
+
+galaga.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_down
+  rotate: false
+  xy: 1, 530
+  size: 480, 480
+  split: 32, 32, 32, 32
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+button_up
+  rotate: false
+  xy: 1, 48
+  size: 480, 480
+  split: 24, 24, 40, 40
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 483, 530
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 483, 322
+  size: 480, 206
+  orig: 480, 206
+  offset: 0, 0
+  index: -1
+tractor_beam
+  rotate: false
+  xy: 483, 240
+  size: 138, 80
+  orig: 138, 80
+  offset: 0, 0
+  index: -1
+heli
+  rotate: false
+  xy: 1, 31
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+tractor1
+  rotate: false
+  xy: 965, 994
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+voyager
+  rotate: false
+  xy: 997, 994
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+tractor2
+  rotate: false
+  xy: 483, 222
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+stickguy
+  rotate: false
+  xy: 623, 308
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+bee
+  rotate: false
+  xy: 1, 19
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+fly
+  rotate: false
+  xy: 51, 36
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+greenguy
+  rotate: false
+  xy: 965, 980
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+arrowhead
+  rotate: false
+  xy: 483, 209
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+scorpion
+  rotate: false
+  xy: 515, 227
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 623, 290
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+player_red
+  rotate: false
+  xy: 1, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+rank
+  rotate: false
+  xy: 965, 962
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: 3
+rank
+  rotate: false
+  xy: 483, 191
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: 4
+rank
+  rotate: false
+  xy: 623, 272
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: 5
+rank
+  rotate: false
+  xy: 640, 292
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: 2
+rank
+  rotate: false
+  xy: 655, 306
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: 1
+rank
+  rotate: false
+  xy: 989, 980
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 0
+enemy_bullet
+  rotate: false
+  xy: 29, 21
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+player_bullet
+  rotate: false
+  xy: 79, 38
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
